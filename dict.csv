@@ -1,0 +1,21 @@
+,event_types,event_types2,sides,shot_places,shot_outcomes,locations,bodyparts,assist_methods,situations
+1,Attempt,,Home,Bit too high,On target,Attacking half,right foot,Pass,Open play
+2,Corner,,Away,Blocked,Off target,Defensive half,left foot,Cross,Set piece
+3,Foul,,,Bottom left corner,Blocked,Centre of the box,head,Headed pass,Corner
+4,Yellow card,,,Bottom right corner,Hit the bar,Left wing,,Through ball,Free kick
+5,Second yellow card,,,Centre of the goal,,Right wing,,,
+6,Red card,,,High and wide,,Difficult angle and long range,,,
+7,Substitution,,,Hits the bar,,Difficult angle on the left,,,
+8,Free kick won,,,Misses to the left,,Difficult angle on the right,,,
+9,Offside,,,Misses to the right,,Left side of the box,,,
+10,Hand ball,,,Too high,,Left side of the six yard box,,,
+11,Penalty conceded,,,Top centre of the goal,,Right side of the box,,,
+12,,Key Pass,,Top left corner,,Right side of the six yard box,,,
+13,,Failed through ball,,Top right corner,,Very close range,,,
+14,,Sending off,,,,Penalty spot,,,
+15,,Own goal,,,,Outside the box,,,
+16,,,,,,Long range,,,
+17,,,,,,More than 35 yards,,,
+18,,,,,,More than 40 yards,,,
+19,,,,,,Not recorded,,,
+0,,,,,,,,,
